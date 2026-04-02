@@ -1,4 +1,4 @@
 Err:Could not read sierra.iniWed Apr 01
 ------------------------------------------------------------
- 23:20:33   Err:Could not read sierra.ini
- 23:20:33   ERR:Exited Pharaoh, 'Pharaoh_Text.eng' or 'Pharaoh_MM.eng' files not found or too large.
+ 23:21:49   Err:Could not read sierra.ini
+ 23:21:49   ERR:Exited Pharaoh, 'Pharaoh_Text.eng' or 'Pharaoh_MM.eng' files not found or too large.
